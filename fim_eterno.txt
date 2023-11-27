@@ -1,4 +1,18 @@
-teste
-testetetetet
-teste
-teste
+----estrofe
+A Letra começa aqui
+dai tem uma rima ali
+ela muda de tom
+até perder o som
+----
+
+----prerefrao
+Bla Bla Bla Bla
+O refrão já vai começar
+----
+
+----refrao
+Esse é o refrão
+Da música que é só um teste
+Espero que esses audios funcionem
+pro dev não ter estresse
+----
